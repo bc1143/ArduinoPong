@@ -1,0 +1,4 @@
+Arduino Pong
+
+A basic single player implementation of the classic game Pong created on the Arduino
+using the TFT graphics library and the Adafruit Display.
